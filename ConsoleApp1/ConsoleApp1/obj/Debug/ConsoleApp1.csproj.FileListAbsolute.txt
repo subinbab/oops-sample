@@ -1,0 +1,8 @@
+D:\git\oops-sample\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\git\oops-sample\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\git\oops-sample\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\git\oops-sample\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\git\oops-sample\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\git\oops-sample\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\git\oops-sample\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\git\oops-sample\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
