@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     internal class Nokia : FeaturePhone
     {
-        public Nokia(long phoneNumber,string simName) : base(simName,phoneNumber)
+        public Nokia(long phoneNumber,string modelName) : base(modelName,phoneNumber)
         {
 
         }

@@ -10,9 +10,9 @@ namespace ConsoleApp1
     {
         private string _modelName;
         private long _phoneNumber;
-        public FeaturePhone(string simName,long phoneNumber)
+        public FeaturePhone(string modelName,long phoneNumber)
         {
-            this._modelName = simName; ;
+            this._modelName = modelName; ;
             this._phoneNumber = phoneNumber;
         }
         public void MakeACall(long toPhoneNumber)
