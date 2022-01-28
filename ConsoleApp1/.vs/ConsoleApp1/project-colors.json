@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac9096e8-e5ff-4f8a-b5ca-ec7c3c4b0235": {
+      "ProjectGuid": "ac9096e8-e5ff-4f8a-b5ca-ec7c3c4b0235",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "dee6aea7-4ab5-4955-a385-a16360fca43a": {
+      "ProjectGuid": "dee6aea7-4ab5-4955-a385-a16360fca43a",
+      "DisplayName": "CallProcess",
+      "ColorIndex": 1
+    },
+    "0eae1bad-8031-48af-9c8c-cfaf8905f442": {
+      "ProjectGuid": "0eae1bad-8031-48af-9c8c-cfaf8905f442",
+      "DisplayName": "OopsSample1",
+      "ColorIndex": 2
+    },
+    "4cff642b-cf67-4fad-a2cb-c94687a8f5d7": {
+      "ProjectGuid": "4cff642b-cf67-4fad-a2cb-c94687a8f5d7",
+      "DisplayName": "OrderProduct",
+      "ColorIndex": 3
+    },
+    "e9af846d-f2f9-484b-bde5-98e5bdb5baba": {
+      "ProjectGuid": "e9af846d-f2f9-484b-bde5-98e5bdb5baba",
+      "DisplayName": "OrderProduct1",
+      "ColorIndex": 4
+    },
+    "2c7ee053-d734-4f08-ad80-9501d3d88698": {
+      "ProjectGuid": "2c7ee053-d734-4f08-ad80-9501d3d88698",
+      "DisplayName": "Log4Net",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

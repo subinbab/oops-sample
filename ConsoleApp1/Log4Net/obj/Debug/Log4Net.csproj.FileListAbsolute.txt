@@ -1,0 +1,11 @@
+D:\git\oops-sample\ConsoleApp1\Log4Net\bin\Debug\Log4Net.exe.config
+D:\git\oops-sample\ConsoleApp1\Log4Net\bin\Debug\Log4Net.exe
+D:\git\oops-sample\ConsoleApp1\Log4Net\bin\Debug\Log4Net.pdb
+D:\git\oops-sample\ConsoleApp1\Log4Net\bin\Debug\log4net.dll
+D:\git\oops-sample\ConsoleApp1\Log4Net\bin\Debug\log4net.xml
+D:\git\oops-sample\ConsoleApp1\Log4Net\obj\Debug\Log4Net.csproj.AssemblyReference.cache
+D:\git\oops-sample\ConsoleApp1\Log4Net\obj\Debug\Log4Net.csproj.SuggestedBindingRedirects.cache
+D:\git\oops-sample\ConsoleApp1\Log4Net\obj\Debug\Log4Net.csproj.CoreCompileInputs.cache
+D:\git\oops-sample\ConsoleApp1\Log4Net\obj\Debug\Log4Net.csproj.CopyComplete
+D:\git\oops-sample\ConsoleApp1\Log4Net\obj\Debug\Log4Net.exe
+D:\git\oops-sample\ConsoleApp1\Log4Net\obj\Debug\Log4Net.pdb

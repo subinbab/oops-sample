@@ -1,0 +1,8 @@
+D:\git\oops-sample\ConsoleApp1\OrderProduct\bin\Debug\OrderProduct.exe.config
+D:\git\oops-sample\ConsoleApp1\OrderProduct\bin\Debug\OrderProduct.exe
+D:\git\oops-sample\ConsoleApp1\OrderProduct\bin\Debug\OrderProduct.pdb
+D:\git\oops-sample\ConsoleApp1\OrderProduct\obj\Debug\OrderProduct.csproj.SuggestedBindingRedirects.cache
+D:\git\oops-sample\ConsoleApp1\OrderProduct\obj\Debug\OrderProduct.csproj.CoreCompileInputs.cache
+D:\git\oops-sample\ConsoleApp1\OrderProduct\obj\Debug\OrderProduct.exe
+D:\git\oops-sample\ConsoleApp1\OrderProduct\obj\Debug\OrderProduct.pdb
+D:\git\oops-sample\ConsoleApp1\OrderProduct\obj\Debug\OrderProduct.csproj.AssemblyReference.cache
